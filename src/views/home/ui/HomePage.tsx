@@ -39,7 +39,7 @@ export function HomePage() {
               <CardContent>
                 <ul className="space-y-2 text-sm">
                   {[
-                    { name: "Next.js 14+", desc: "App Router, RSC" },
+                    { name: "Next.js 16+", desc: "App Router, RSC" },
                     { name: "Redux Toolkit", desc: "Global state management" },
                     { name: "TanStack Query", desc: "Server state & caching" },
                     { name: "shadcn/ui", desc: "UI component system" },
